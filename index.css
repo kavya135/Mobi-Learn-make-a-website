@@ -3,8 +3,8 @@ body {
 }
 
 img {
-  width: 150px;
-  height: 150px;
+  width: 160px;
+  height: 160px;
 }
 ul {
   list-style: none;
@@ -13,8 +13,8 @@ ul {
 }
 
 h2 {
-  padding-top: 16px;
-  padding-bottom: 8px;
+  padding-top: 18px;
+  padding-bottom: 10px;
 }
 
 .col-centered{
